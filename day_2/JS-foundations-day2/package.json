@@ -1,0 +1,11 @@
+{
+  "name": "js-foundations-day2",
+  "version": "1.0.0",
+  "description": "1. Write a function that takes an array of numbers and returns the largest number in the array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
